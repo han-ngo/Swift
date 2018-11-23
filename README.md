@@ -5,5 +5,5 @@ The project ideas in this porfolio are from [Angela Yu's bootcamp](https://www.u
 
 ## Authors
 
-* **Mia Ngo** - *Implement and Tweaks* 
-* **Angela Yu** - *Initial Ideas & Skeleton Code* 
+* **Mia Ngo** - *Implement and tweaks* 
+* **Angela Yu** - *Initial ideas & some of the skeleton code* 
